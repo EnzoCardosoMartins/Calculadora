@@ -1,0 +1,27 @@
+.botaonumero{
+
+    -fx-background-color: #8c8c8c;
+    -fx-background-radius: 7;
+    -fx-border-radius: 7;
+
+}
+
+.botaooperacoes{
+
+    -fx-background-color: #787878;
+    -fx-background-radius: 7;
+    -fx-border-radius: 7;
+
+}
+
+.botaonumero:hover{
+
+    -fx-background-color: #787878;
+
+}
+
+.botaooperacoes:hover{
+
+    -fx-background-color: #8c8c8c;
+
+}
